@@ -1,0 +1,43 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #3c3939;
+    background-color: #b8b5b8;
+}
+.profile-card{
+    width: 400px;
+    margin: auto;
+    background: #fffdff;
+    box-shadow:0 4px 10px black ;
+    border-radius: 10px;
+    padding: 15px;
+    
+}
+.image-container{
+    position: relative;
+
+}
+.image{
+    border-radius:50% ;
+    
+
+
+}
+.info{
+    color: #3c3939;
+    margin-right: 16px;
+}
+.main-container{
+    padding: 20px;
+}
+.skill-bar{
+    background-color: #bdc9ea;
+    border-radius: 10px;
+}
+.progress-bar{
+    padding: 0 .1em 16px;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+    background-color: #4b4fe2;
+    height:6px;
+}
